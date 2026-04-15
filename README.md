@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Project home
 
-Homepage: [https://sakuraleaf.com/products/sitesnap-capture-any-website-as-pdf/](https://sakuraleaf.com).
+Homepage: [https://sakuraleaf.com](https://sakuraleaf.com/products/sitesnap-capture-any-website-as-pdf).
 
 ## Getting Started
 
